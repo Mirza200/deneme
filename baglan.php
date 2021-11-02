@@ -1,0 +1,1 @@
+<?php $db = new BasicDB('localhost', 'sohbet', 'root', ''); ?>

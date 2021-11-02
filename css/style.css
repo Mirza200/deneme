@@ -1,0 +1,12 @@
+body {background-color: #2980b9; margin-top:20px; font-size:19px;}
+hr{margin:7px 0px 7px 0px;}
+span{font-family: 'Kalam', cursive;}
+#sohbetIcerik {background-color: #FFFCE6; padding:5px; border-radius:4px; max-height: 400px; word-wrap:break-word; overflow-x:hidden; overflow-y: auto;}
+#mesajGonder {padding:10px 0;font-family: 'Kalam', cursive; font-weight: bold; }
+#sohbetMesaji{font-family: 'Hammersmith One', sans-serif;}
+#tarih{position: relative; top:10px; font-family: 'Hammersmith One', sans-serif; font-size:9px; background-color: #F3D89F; border-radius:6px; color:#65878F; padding:2px 3px 2px 3px;}
+#kadi{text-shadow: 0.8px 0.8px 0.8px #000;color:white; font-family: 'Hammersmith One', sans-serif;text-transform:capitalize; margin-bottom: 5px}
+.badge{background-color: white;}
+hr{margin-top: 0px;}
+label{font-weight: 300; font-size:14px;}
+.list-group-item {padding: 2px 15px; font-family: 'Kalam', cursive;text-transform:capitalize;}
